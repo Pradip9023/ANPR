@@ -1,0 +1,6 @@
+{
+  "name": "GarudaANPR - Indian ANPR & Parking Management",
+  "description": "Enterprise AI-powered Automatic Number Plate Recognition (ANPR) system for Indian vehicles with dual-mode parking management and outdoor road surveillance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
